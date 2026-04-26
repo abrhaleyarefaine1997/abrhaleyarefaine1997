@@ -103,7 +103,7 @@ Graduated with Highest Distinction
 
 ## Professional Experience
 
-* Machine Learning Intern — FOREO (AI systems & data pipelines)
+* AI systems & data pipelines
 * Freelance Data Scientist (ML modeling & analytics)
 * Technical Team Lead & Systems Engineer
 * Data Analyst & Data Engineer
@@ -112,7 +112,6 @@ Graduated with Highest Distinction
 
 ## Leadership & Community
 
-* Student & Youth Ambassador for Europe — All Africa Students Union
 * President — Mekelle University Students Union
 * Executive leadership roles in African student organizations
 
