@@ -1,56 +1,67 @@
 # Hi, I'm Abrhaley Arefaine Hailenchael 👋
 
-### Machine Learning & Data | Financial Crime Detection | Explainable AI
+### Machine Learning & Data | Agentic AI | Financial Crime Detection | Explainable AI
 
 I am a Machine Learning and Data professional with an MSc in Computer Science from Warsaw University of Technology, currently working at HSBC in Kraków within the financial crime detection domain.
 
-My background combines applied machine learning, data science, and data engineering, with particular experience in fraud detection, imbalanced datasets, explainable machine learning, and data-driven decision systems.
+My work spans applied machine learning, data-driven systems, and emerging Agentic AI approaches. I focus on developing reliable and interpretable solutions for complex data problems, particularly in financial crime and fraud detection.
 
-I work across the machine learning lifecycle — from data preparation and feature engineering to model development, evaluation, interpretability, and translating model outputs into actionable insights.
+My experience covers the end-to-end ML lifecycle — from data preparation and feature engineering to model development, evaluation, explainability, and translating model outputs into actionable insights. I am also expanding this work toward Agentic AI systems, including LLM-powered workflows, tool-using agents, retrieval-augmented generation, and multi-step AI orchestration.
 
 ## 🔍 Focus Areas
 
 - Machine Learning & Data Science
+- Agentic AI & LLM-based Systems
 - Financial Crime & Fraud Detection
-- Explainable AI (XAI) and Model Interpretability
+- Explainable AI (XAI)
 - Anomaly Detection & Imbalanced Learning
 - Data Engineering & Analytics
-- Production-oriented ML
-- Graph & Sequence Learning
+- Production-oriented ML/AI
+
+## 🤖 Agentic AI
+
+- LLM-powered applications and workflows
+- AI agents and tool use
+- Retrieval-Augmented Generation (RAG)
+- Multi-step reasoning and workflow orchestration
+- Agent evaluation and observability
+- Human-in-the-loop AI systems
+- Responsible and explainable AI
 
 ## 🛠 Technical Stack
 
-**ML & Data**  
-Python • PyTorch • Scikit-learn • XGBoost • Pandas • NumPy • SQL
+**ML & AI**  
+Python • PyTorch • Scikit-learn • XGBoost • LLMs • Transformers
+
+**Agentic AI**  
+RAG • Tool-using Agents • Agentic Workflows • LLM Evaluation
+
+**Data & Engineering**  
+SQL • Pandas • NumPy • ETL • Feature Engineering • APIs • Docker • Git • Linux
 
 **Explainability & Evaluation**  
-SHAP • LIME • GNNExplainer • Model Validation • Cross-validation
+SHAP • LIME • GNNExplainer • Model Validation • Robustness Evaluation
 
-**Engineering & Analytics**  
-ETL • Feature Engineering • Git • Docker • Linux • FastAPI • BI & Visualization
+## 📌 Selected Work & Projects
 
-**Additional ML Experience**  
-Graph Neural Networks • Transformers • NLP • Sequence Modeling
-
-## 📌 Selected Projects
-
-### Explainable Machine Learning for Financial Fraud Detection
+### Explainable ML for Financial Fraud Detection
 - Developed an end-to-end ML pipeline for highly imbalanced financial transaction data
 - Applied explainability techniques for model interpretation and analysis
-- Evaluated model robustness under challenging real-world data conditions
+- Evaluated robustness under challenging real-world data conditions
 
-### Graph Neural Networks
+### Agentic AI & LLM Systems
+- Exploring agent-based architectures for multi-step AI workflows
+- Building retrieval and tool-augmented LLM applications
+- Exploring evaluation, observability, and reliability of agentic systems
+
+### Graph Machine Learning
 - Developed graph-based models using PyTorch Geometric
 - Applied GNNExplainer for model interpretability
 - Built reproducible training and evaluation pipelines
 
 ### NLP & Low-Resource Language Modeling
-- Developed ML/NLP approaches for Tigrinya language tasks
+- Developed NLP approaches for Tigrinya language tasks
 - Worked with data scarcity, class imbalance, and model evaluation challenges
-
-### Healthcare & Biological ML
-- Applied machine learning and deep learning to healthcare and biological datasets
-- Explored sequence models for long-range dependencies and representation learning
 
 ## 🎓 Education
 
